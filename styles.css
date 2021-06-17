@@ -1,0 +1,12 @@
+/* img {
+    position: sticky;
+    top: 0;
+    padding-left: 20%;
+    padding-top: 20%;
+} */
+.sticky {
+    position: sticky;
+    top: 0;
+    padding-left: 20%;
+    padding-top: 20%;
+}
